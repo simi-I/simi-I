@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ola-Obaado Similoluwa, a Data Scientist, Mobile App Developer.
+I'm Ola-Obaado Similoluwa, a Data Scientist and Mobile App Developer.
 
 #### About Me
 - 📖 Education: Computer Science (MSC) Nile University
@@ -9,8 +9,10 @@ I'm Ola-Obaado Similoluwa, a Data Scientist, Mobile App Developer.
 - 🌱 Beginning my Mobile Development journey with Flutter
 - 👯 Looking to collaborate on Artificial Intelligence projects
 
-#### Projects
-Data Science Projects
+### Projects
+
+#### Data Science Projects
+
 My data science portfolio is compiled in the list below. For classification, regression, and ranking, these projects use both machine learning and deep learning algorithms. Examples of data preprocessing include Up/Down Sampling, Natural Language Processing, Image Preprocessing, One Hot Encoding, and many more! Use these links to check them out.
 
 - G2M insight for Cab Investment-firm: [https://github.com/simi-I/G2M-insight-for-Cab-Investment-firm](https://github.com/simi-I/G2M-insight-for-Cab-Investment-firm)
