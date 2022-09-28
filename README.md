@@ -20,5 +20,5 @@ My data science portfolio is compiled in the list below. For classification, reg
 - Term Deposit Marketing: [https://github.com/simi-I/ZXtfRdrACtaZl3Ey](https://github.com/simi-I/ZXtfRdrACtaZl3Ey)
 - Happy Customers: [https://github.com/simi-I/Happy-Customer](https://github.com/simi-I/Happy-Customer)
 - Trip Advisor Sentiment Classification: [https://github.com/simi-I/Sentiment-Classification](https://github.com/simi-I/Sentiment-Classification)
-- Anomaly based Network Intrusion Detection System: [https://github.com/simi-I/ANIDS](https://github.com/simi-I/ANIDS/blob/main/Multi-classification%20Resnet%20Final.ipynb)
+- Anomaly based Network Intrusion Detection System: [https://github.com/simi-I/ANIDS](https://github.com/simi-I/ANIDS)
 
