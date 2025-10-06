@@ -3,8 +3,6 @@
 I'm Ola-Obaado Similoluwa, a Data Scientist and Mobile App Developer.
 
 #### About Me
-- 📖 Education: Computer Science (Msc) Nile University
-- 👷🏻‍♂️ Currently an AI Resident at Apziva
 - 📚 Tech Stack: Python, SQL, Flutter
 - 🌱 Beginning my Mobile Development journey with Flutter
 - 👯 Looking to collaborate on Artificial Intelligence projects
