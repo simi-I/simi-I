@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-I'm Ola-Obaado Similoluwa, a Data Scientist and Mobile App Developer.
+I'm Ola-Obaado Similoluwa, a Machine learning engineer.
 
 #### About Me
-- 📚 Tech Stack: Python, SQL, Flutter
-- 🌱 Beginning my Mobile Development journey with Flutter
+- 📚 Tech Stack: Python
 - 👯 Looking to collaborate on Artificial Intelligence projects
 
 ### Projects
 
 #### Data Science Projects
-
-My data science portfolio is compiled in the list below. For classification, regression, and ranking, these projects use both machine learning and deep learning algorithms. Examples of data preprocessing include Up/Down Sampling, Natural Language Processing, Image Preprocessing, One Hot Encoding, and many more! Use these links to check them out.
 
 - MonReader: [https://github.com/simi-I/MonReader](https://github.com/simi-I/MonReader)
 - G2M insight for Cab Investment-firm: [https://github.com/simi-I/G2M-insight-for-Cab-Investment-firm](https://github.com/simi-I/G2M-insight-for-Cab-Investment-firm)
